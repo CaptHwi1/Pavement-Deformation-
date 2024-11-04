@@ -2,8 +2,8 @@
 
 # Pavement-Deformations
 
-- The model used YOLOv5 for Object detection of pavement deformation
-- Details of the dataset from Roboflow
+## The model used YOLOv5 for Object detection of pavement deformation
+## Details of the dataset from Roboflow
 -  names:
 - alligator crack
 - block crack
