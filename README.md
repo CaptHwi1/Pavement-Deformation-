@@ -27,9 +27,9 @@
 - slippage crack
 - transverse crack
 - weather raveling
-nc: 22
-roboflow:
-  license: CC BY 4.0
-  project: road-damage-detection-mxnpt
-  url: https://universe.roboflow.com/arliyantin/road-damage-detection-mxnpt/dataset/3
+- nc: 22
+- roboflow:
+  -- license: CC BY 4.0
+  -- project: road-damage-detection-mxnpt
+ -- url: https://universe.roboflow.com/arliyantin/road-damage-detection-mxnpt/dataset/3
  
